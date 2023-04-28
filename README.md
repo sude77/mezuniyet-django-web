@@ -1,1 +1,0 @@
-# mezuniyet-django-web
